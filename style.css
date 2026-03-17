@@ -197,7 +197,7 @@ footer {
 
 .home-image img {
     width: 100%;
-    max-width: 800px;
+    max-width: 300px;
     border-radius: 6px;
     border: 2px solid #ddd;
 }
