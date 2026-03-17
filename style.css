@@ -190,3 +190,14 @@ footer {
     color: #fff;
     font-size: 14px;
 }
+.home-image {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.home-image img {
+    width: 100%;
+    max-width: 800px;
+    border-radius: 6px;
+    border: 2px solid #ddd;
+}
